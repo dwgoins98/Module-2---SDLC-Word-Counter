@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>Module 2 - Word Counter</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>src/Macbeth.rtf</name>
+			<type>1</type>
+			<locationURI>PROJECT_LOC/Macbeth.rtf</locationURI>
+		</link>
+		<link>
+			<name>src/full.html</name>
+			<type>1</type>
+			<locationURI>PROJECT_LOC/full.html</locationURI>
+		</link>
+	</linkedResources>
+</projectDescription>
